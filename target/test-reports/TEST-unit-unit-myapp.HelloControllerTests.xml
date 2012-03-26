@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Doom.Desktop" name="myapp.HelloControllerTests" tests="1" time="0.615" timestamp="2012-03-26T18:07:45">
+  <properties />
+  <testcase classname="myapp.HelloControllerTests" name="testSomething" time="0.598" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
